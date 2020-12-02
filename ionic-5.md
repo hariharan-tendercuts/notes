@@ -23,6 +23,6 @@ https://www.joshmorony.com/my-method-for-upgrading-from-ionic-3-to-ionic-4/
 
 App Changes:
 
-color: color($colors, 'primary') -> var(--ion-color-primary);
-color: color($colors, 'mid-light') -> var(--ion-color-mid-dark);
-color: color($colors, 'mid-dark') -> var(--ion-color-mid-light);
+color: color($colors, 'primary') to var(--ion-color-primary)
+color: color($colors, 'mid-light') -> var(--ion-color-mid-dark)
+color: color($colors, 'mid-dark')` -> `var(--ion-color-mid-light);

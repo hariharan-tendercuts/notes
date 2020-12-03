@@ -20,6 +20,11 @@ https://www.joshmorony.com/my-method-for-upgrading-from-ionic-3-to-ionic-4/
 1. Module Structure.
 2. All dependencies should to upgraded to LTS
 
+Modules:
+1. Orders tab -> Go Online,Store Picker,Go Offline, Order Scan, Order viewing, Order Complete, Cash Collection
+2. Trips tab -> 
+3. Trip Sheets tab -> 
+4. Profile tab -> 
 
 App Changes:
 

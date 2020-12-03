@@ -26,8 +26,11 @@ Modules:
 3. Trip Sheets tab -> 
 4. Profile tab -> 
 
-App Changes:
+Our app specific changes:
+HTML:
+1. change all tap events to click.
 
+SCSS:
 color: color($colors, 'primary') to var(--ion-color-primary)
 color: color($colors, 'mid-light') -> var(--ion-color-mid-dark)
 color: color($colors, 'mid-dark')` -> `var(--ion-color-mid-light);
